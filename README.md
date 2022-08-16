@@ -35,3 +35,5 @@ $ ./saliency_map explor_12.csv --img_path explor_12.jpg  --sigma 1.5 --blend .7
 ```
 
 ![example](explor_12.jpg)
+
+![example](salmap.jpg)
