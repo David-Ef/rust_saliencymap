@@ -13,7 +13,7 @@ use opencv::{
 opencv::opencv_branch_4! {
 	use opencv::core::AccessFlag::ACCESS_READ;
 }
-opencv::not_opencv_branch_4! {G
+opencv::not_opencv_branch_4! {
 	use opencv::core::ACCESS_READ;
 }
 
